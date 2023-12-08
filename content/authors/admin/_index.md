@@ -25,7 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  Data enthusiast and future Data Scientist from India, weaving insights through Python, data analysis, SQL finesse, and PowerBI artistry. 🚀
 
 # Interests to show in About widget
 interests:
