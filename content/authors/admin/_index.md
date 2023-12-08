@@ -120,7 +120,7 @@ social:
 highlight_name: true
 ---
 
-Greetings! I'm [Your Name], a data enthusiast from India with a background in Mechanical Engineering. While machinery and precision have been my foundation, my heart beats for the intricate world of psychology, philosophies, and English literature.
+Greetings! I'm Srinivas Golla, a data enthusiast from India with a background in Mechanical Engineering. While machinery and precision have been my foundation, my heart beats for the intricate world of psychology and philosophies.
 
 Now, I'm embarking on an exciting journey into Data Science. Transforming from a math novice to a Python enthusiast, I'm crafting my path to become a Data Scientist. Alongside the dance of algorithms, I revel in the art of data analysis, unraveling patterns, and extracting insights that tell compelling stories.
 
