@@ -110,7 +110,7 @@ sections:
         - certificate_url: https://coursera.org/verify/specialization/G5JTVD9N3SWC
           date_end: ''
           date_start: '2023'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: ''
           icon: coursera
           organization: coursera
           organization_url: https://www.coursera.org
