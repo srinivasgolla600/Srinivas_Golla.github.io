@@ -100,7 +100,7 @@ sections:
       items:
         - certificate_url: https://coursera.org/verify/professional-cert/9QVKX8J89TX9
           date_end: ''
-          date_start: '2023'
+          date_start: '05-06-2023'
           description: ''
           icon: coursera
           organization: Coursera
@@ -109,7 +109,7 @@ sections:
           url: https://coursera.org/share/136120c1e3d2e36c4634bd4c08bc7b31
         - certificate_url: https://coursera.org/verify/specialization/G5JTVD9N3SWC
           date_end: ''
-          date_start: '2023'
+          date_start: '10-07-2023'
           description: ''
           icon: coursera
           organization: coursera
@@ -118,7 +118,7 @@ sections:
           url: https://coursera.org/share/e806c644c338bb5adf4f007796b570f9
         - certificate_url: https://coursera.org/verify/76PJC2LKQVUJ
           date_end: ''
-          date_start: '2023'
+          date_start: '15-09-2023'
           description: ''
           icon: coursera
           organization: coursera
